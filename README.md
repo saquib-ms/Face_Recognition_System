@@ -19,7 +19,7 @@ The repository contains three Python scripts: `face_detector.py`, `training.py`,
 
 This script captures images from the webcam and saves them to build a dataset for training the recognition model. It detects faces using the Haar Cascade classifier and saves grayscale face images in the `dataset` directory.
 
-### `face_train.py`
+### `training.py`
 
 This script reads the captured face images from the `dataset` directory, processes them, and trains a face recognition model using the LBPH (Local Binary Pattern Histogram) algorithm. The trained model is then saved as `trainer.yml` in the `trainer` directory.
 
