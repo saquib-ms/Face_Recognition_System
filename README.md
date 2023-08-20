@@ -50,6 +50,5 @@ This script uses the trained recognition model to detect and recognize faces in 
 
 The code in this repository is based on OpenCV's face detection and recognition capabilities. The Haar Cascade classifier and LBPH algorithm are used for face detection and recognition, respectively.
 
-Feel free to explore, modify, and improve this code for your own projects!
 
 For any questions or issues, please don't hesitate to reach out by opening an issue in this repository.
