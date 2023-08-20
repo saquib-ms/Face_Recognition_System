@@ -42,7 +42,7 @@ This script uses the trained recognition model to detect and recognize faces in 
 
    Run the `face_recognition.py` script to perform real-time face recognition using the trained model. The script will open a webcam feed and detect faces. Recognized faces will be labeled with names, and confidence percentages will be displayed. Press the `ESC` key to exit the real-time recognition.
 
-## Notes
+## Note
 
 - The accuracy of the face recognition system might vary based on factors like lighting conditions, face angles, and the quality of captured images.
 
