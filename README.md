@@ -45,7 +45,6 @@ This script uses the trained recognition model to detect and recognize faces in 
 ## Notes
 
 - The accuracy of the face recognition system might vary based on factors like lighting conditions, face angles, and the quality of captured images.
-- The `haarcascade_frontalface_default.xml` file is required for face detection. Make sure it's available in the same directory as the scripts.
 
 ## Acknowledgments
 
